@@ -1414,3 +1414,7 @@ textarea {
 .social-icon .google:hover {
     background: #ce332a
 }
+
+.main-row {
+    margin-left: 10vw !important;
+}
