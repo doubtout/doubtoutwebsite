@@ -1415,6 +1415,8 @@ textarea {
     background: #ce332a
 }
 
-.main-row {
-    margin-left: 10vw !important;
+@media screen and (min-width: 900px) {
+    .main-row {
+        margin-left: 10vw !important;
+    }
 }
